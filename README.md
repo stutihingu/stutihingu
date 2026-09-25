@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=stutihingu&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ I enjoy combining **business understanding with data** to turn raw information i
 
 Analytics project focused on understanding checkout abandonment patterns and generating actionable business insights.
 
-🔗 **[View Project](YOUR_REPOSITORY_LINK)**
+🔗 **[View Project](https://github.com/stutihingu/ecommerce-checkout-abandonment-project)**
 
 ### 📡 Telecom Customer Churn Analysis
 
@@ -78,14 +78,14 @@ Power BI dashboard analyzing sales performance, customer behavior and product tr
 
 ## 💼 Experience
 
-**Business Analyst Trainee — Coding Cloud**
+### Business Analyst Trainee — Coding Cloud
 
 - Requirements gathering
 - UML, Use Cases & User Stories
 - Jira & Agile methodologies
 - SQL, Python & Power BI
 
-**Data Analytics — Grras IT Solutions**
+### Data Analytics — Grras IT Solutions
 
 - Data cleaning and analysis
 - Python & SQL
@@ -106,8 +106,8 @@ B.K. School of Professional and Management Studies
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stutihingu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutihingu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stutihingu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutihingu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 ---
@@ -132,8 +132,12 @@ B.K. School of Professional and Management Studies
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/stutihingu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-✨ Thanks for visiting my profile!
+  ✨ Thanks for visiting my profile!
 </p>
