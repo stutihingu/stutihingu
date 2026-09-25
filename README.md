@@ -101,25 +101,6 @@ B.K. School of Professional and Management Studies
 
 **BBA — 2024 | MBA — 2026**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stutihingu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutihingu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stutihingu&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
